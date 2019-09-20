@@ -1,4 +1,4 @@
-# CiscoQuestions
+# Cisco Questions
 
 We have different type of challenges you can choose to take on. They cover the following topics:
 
